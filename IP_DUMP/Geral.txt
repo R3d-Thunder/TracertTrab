@@ -1,0 +1,48 @@
+
+Disparando google.com [2800:3f0:4004:80e::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:80e::200e: tempo=51ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=42ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=43ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=41ms 
+
+Estat¡sticas do Ping para 2800:3f0:4004:80e::200e:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 41ms, M ximo = 51ms, M‚dia = 44ms
+
+Disparando google.com [2800:3f0:4004:80e::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:80e::200e: tempo=51ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=43ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=41ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=41ms 
+
+Estat¡sticas do Ping para 2800:3f0:4004:80e::200e:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 41ms, M ximo = 51ms, M‚dia = 44ms
+
+Disparando google.com [2800:3f0:4004:80e::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:80e::200e: tempo=66ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=52ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=43ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=43ms 
+
+Estat¡sticas do Ping para 2800:3f0:4004:80e::200e:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 43ms, M ximo = 66ms, M‚dia = 51ms
+
+Disparando google.com [2800:3f0:4004:80e::200e] com 32 bytes de dados:
+Resposta de 2800:3f0:4004:80e::200e: tempo=43ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=42ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=44ms 
+Resposta de 2800:3f0:4004:80e::200e: tempo=46ms 
+
+Estat¡sticas do Ping para 2800:3f0:4004:80e::200e:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 42ms, M ximo = 46ms, M‚dia = 43ms
